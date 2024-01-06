@@ -1,0 +1,29 @@
+{
+    "messages": {
+        "club_favorite" : "Uspjeh! Uspješno ste uredili vlastite favorite.",
+        "club_unfavorite" : "Uspjeh! Uspješno ste uklonili favorita."
+},
+    "urls" : {
+        "sportsporthome" : "https://sportsport.ba/"
+},
+    "credentials" : {
+        "email" : "aldin.talic@stu.ibu.edu.ba",
+        "password" : "sport123",
+        "register_username" : "test_user",
+        "register_email" : "testtest@gmail.com",
+        "register_password" : "test123"
+},
+    "comments" : {
+        "comment" : "komentar"
+},
+    "clubs" : {
+        "liverpool" : "Liverpool"
+},
+    "assert" : {
+        "search_heading" : "dzeko"
+},
+    "search" : {
+        "news" : "dzeko"
+    }
+
+}
