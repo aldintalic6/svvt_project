@@ -32,6 +32,8 @@ test("commenting", async () => {
 }, 20000);
 
 test("comment-article", async () => {
+    await homePage.scrollToArticle();
+    await homePage.clickOnArticle();
     await articlePage.scrollToComment();
     await articlePage.clickOnComment();
     await commentsPage.inputComment();
